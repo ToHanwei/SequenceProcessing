@@ -1,2 +1,2 @@
-# Sequence-processing-FASTA-
+# Sequence processing
 Process FASTA format sequences
