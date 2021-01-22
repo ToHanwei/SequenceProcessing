@@ -1,0 +1,7 @@
+#!/bin/bash 
+#BSUB -J
+#BSUB -e
+#BSUB -o
+#BSUB -q
+#BSUB -n 1
+
